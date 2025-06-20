@@ -1,0 +1,7 @@
+{
+  "name": "Name is required",
+  "alterego": "Alterego is required",
+  "description": "Description is required",
+  "powers": "Powers are required"
+}
+

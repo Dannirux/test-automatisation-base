@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Captain America",
+    "alterego": "Steve Rogers",
+    "description": "Super soldier with enhanced strength and agility",
+    "powers": ["Super Strength", "Enhanced Agility", "Vibranium Shield"]
+  },
+  {
+    "name": "Black Widow",
+    "alterego": "Natasha Romanoff",
+    "description": "Skilled spy and martial artist",
+    "powers": ["Combat Expert", "Espionage", "Tactical Intelligence"]
+  },
+  {
+    "name": "Thor",
+    "alterego": "Thor Odinson",
+    "description": "God of Thunder from Asgard",
+    "powers": ["Weather Control", "Mjolnir", "Superhuman Strength"]
+  }
+]
+

@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "Iron Man",
+  "alterego": "Tony Stark",
+  "description": "Genius billionaire",
+  "powers": ["Armor", "Flight"]
+}
+
